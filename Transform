@@ -1,0 +1,7 @@
+Transformation
+
+    Création de la colonne durée_livraison (date_livraison réelle - date_achat)
+    Création de la colonne écart_livraison (date_estimée - date_livraison réelle)
+    Création de la colonne booléenne livraison_à_temps
+    Ajout d'une colonne montant_commande (produits + frais de livraison)
+    Création de la colonne montant_frais_commande isolant les frais
