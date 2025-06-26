@@ -1,0 +1,8 @@
+Analyse exploratoire
+
+    Répartition du score de satisfaction (review_score)
+    Impact du retard de livraison sur la satisfaction
+    Influence du montant de la commande sur la satisfaction
+    Identification des villes avec le plus de commandes en retard
+    Produits et catégories associés à des retards fréquents
+    Durée moyenne de livraison par catégorie de produit (groupby + mean)
