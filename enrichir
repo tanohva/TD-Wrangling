@@ -1,0 +1,4 @@
+Enrichissement
+
+    Sélection des colonnes pertinentes pour l’analyse (features engineering)
+    Jointure avec la table des clients pour récupérer les informations géographiques et les scores de satisfaction associés
