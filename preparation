@@ -1,0 +1,10 @@
+Approche de préparation des données 
+Nettoyage
+    Chargement des fichiers directement depuis le site Kaggle
+   Familiarisation avec la structure des données (.head(), .info(), .describe())
+    Conversion des types de données selon leur nature sémantique (dates, numériques, catégorielles, etc.)
+    Normalisation des colonnes textuelles (ex. : noms de ville) pour supprimer les accents et harmoniser les formats
+    Suppression des doublons
+    Suppression des lignes vides
+    Analyse des valeurs manquantes
+    Traitement contextuel des valeurs manquantes (imputation, exclusion ou étiquetage)
